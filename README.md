@@ -36,10 +36,6 @@ El curso se divide en varias partes, cada una enfocada en un tema específico de
 
 Se recomienda tener conocimientos básicos de HTML, CSS y JavaScript, aunque no es estrictamente necesario. El curso está diseñado para ser accesible tanto para principiantes como para desarrolladores experimentados que deseen actualizar sus habilidades.
 
-### Certificación
-
-Al completar el curso y los ejercicios prácticos, los estudiantes pueden obtener un certificado que acredite su conocimiento en el desarrollo web moderno.
-
 ---
 
 Para más información y registro, visita la [página oficial del curso](https://fullstackopen.com/).
